@@ -1,2 +1,4 @@
-# ScalaExecises
-Coding Exercises in Scala
+
+# Functional Programming 
+
+Functional Programming Coding Exercises in Python, Scala, ... 
